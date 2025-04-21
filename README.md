@@ -11,7 +11,7 @@
 3. 以下のコマンドを実行してコンテナを起動します：
 
     ```bash
-    docker-compose up
+    docker-compose up -d
     ```
 
 4. 起動が完了したら、サービスが利用可能になります。
